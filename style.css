@@ -14,9 +14,11 @@ body {
 }
 
 body {
-    background-color: #020202;
-    color: #ffffff;
+    background-image: url(Imagens\ One\ Piece/wllpp.webp);
+    color: #fffefe;
 }
+
+
 
 .container {
     max-width: 1000px;
@@ -48,7 +50,7 @@ nav {
 }
 
 .menu a:hover {
-    color: #fff;
+    color: #1dde2a;
 }
 
 .filme {
@@ -63,6 +65,12 @@ nav {
 .bloco-texto {
     padding: 3rem;
     background-color: #373434;
+}
+
+
+.bloco-texto2 {
+    padding: 3rem;
+    background-color: #40faf4;
 }
 
 .titulo {
